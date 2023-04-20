@@ -154,3 +154,6 @@ Another must-have part of your online trading app development process would be t
   
 Although the feature gets the least attention, the newsfeed is one of the most crucial features of a stock trading application. For a new trader who belongs to the amateur category of stock market app development user study, a newsfeed informs them of recent happenings in the stock industry – the winners and losers, latest M&As,  IPO details, etc. 
   With the feature sets for trading-based fintech software development services addressed, at this stage, you are all set to take that next move and start planning the technicalities of how your stock trading app would run. Here are some key tools and technologies to consider that we believe will make you confident to take a step towards stock-centric finance mobile app development.
+
+
+PPT Link:- https://www.canva.com/design/DAFgX7vZFgQ/nBuh_iXDOpMFbTJBdef_yQ/edit?utm_content=DAFgX7vZFgQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
