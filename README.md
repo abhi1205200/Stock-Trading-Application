@@ -96,12 +96,12 @@ For expediting your development process, use managed cloud services like Mobile-
 
 The main question of “how to make a stock market app” mainly depends on the skills and expertise of the development team that you choose and organize. For creating a stock trading mobile app, your team should have:
 
-1.JavaScript developers for web development.
-2.UI designers.
-3.Android developers.
-4.Testers.
-5.Swift developers for iOS development.
-6.DevOps engineers.
+1.JavaScript developers for web development.<br>
+2.UI designers.<br>
+3.Android developers.<br>
+4.Testers.<br>
+5.Swift developers for iOS development.<br>
+6.DevOps engineers.<br>
 
 <h4>6. Develop API for Implementing Core and Non-Core Features</h4>
 
@@ -114,21 +114,21 @@ Manage your API development and staging environments effectively.<br>
 Make sure that the API supports Android, web, and IOS devices.<br>
 Design meaningful URLs for getting effective requests and responses.<br>
 
-<h4>7. Testing, Delivery, and Maintenance</h4>
+<h3>7. Testing, Delivery, and Maintenance</h3>
 
 Once you have successfully launched your stock trading app, now it is time to carry out the complex testing processes for various devices. Your QA team will help identify the existing bugs and glitches and remove those. Effective testing is done by checking the applications on mobile devices.
 
 <h1>Features that Make up for a Successful Stock Trading App</h1>
 
-<h4>1. The Check-In Process:<h4>
+<h3>1. The Check-In Process:</h3>
 
   The authorization process has to be extremely easy and non-burdening for the users. It is at this stage when you should offer users multiple check-in options – use of pin code, biometrics, etc. This way, you will be able to ensure that their experience is safe. 
   
-  <h4>2. User Profile </h4>
+  <h3>2. User Profile </h3>
 
   Users should be given the option to save their personal information and preferences related to notifications or simply the frequency at which they want their account to get debited.
   
-  <h4>3. Putting Trades on Stocks</h4>
+  <h3>3. Putting Trades on Stocks</h3>
   
 The one obvious feature that should be added to your stock market app development process is giving the users the functionality to execute orders and monitor their flow of funds.
   
@@ -136,21 +136,21 @@ The one obvious feature that should be added to your stock market app developmen
   
 Irrespective of which fintech application development company you ask, they will unanimously tell you that nothing is deemed more beneficial than real-time updates when your users invest in a stock trading app through their time and money. Users should be given the ease to view their portfolios in real-time, and they should be timely updated to give them a very clear idea of where they stand investment-wise. 
   
-  <h4>5. Deposits</h4><br>
+  <h3>5. Deposits</h3><br>
 Using this feature, investors will be able to see the status of their deposits in real time with minimal effort. 
   
-  <h4>6. Search</h4>
+  <h3>6. Search</h3>
   In your stock trading app for investors, your users should be given the option to search for active stocks and their present rates in the market.
   
-  <h4>7. Analytics</h4>
+  <h3>7. Analytics</h3>
   
 The stock market participants would appreciate the opportunity to look at the statistics and analyze the end result of their trades, transactions, etc. 
 
-<h4>8. Push Notifications</h4>
+<h3>8. Push Notifications</h3>
     
 Another must-have part of your online trading app development process would be to integrate push notifications. You should give your users notification of how their stocks have moved, but they should be timed in a way that they are not bothersome for busy investors. 
 
-<h4>9. Newsfeed</h4>
+<h3>9. Newsfeed</h3>
   
 Although the feature gets the least attention, the newsfeed is one of the most crucial features of a stock trading application. For a new trader who belongs to the amateur category of stock market app development user study, a newsfeed informs them of recent happenings in the stock industry – the winners and losers, latest M&As,  IPO details, etc. 
   With the feature sets for trading-based fintech software development services addressed, at this stage, you are all set to take that next move and start planning the technicalities of how your stock trading app would run. Here are some key tools and technologies to consider that we believe will make you confident to take a step towards stock-centric finance mobile app development.
