@@ -24,3 +24,4 @@ Trading applications have become increasingly popular in recent years, as techno
 
 
 <h1>How do Stock Trading Apps Work?</h1>
+![Alt text](C:\Users\Abhishek\OneDrive\Pictures\Screenshots)
